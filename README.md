@@ -1,2 +1,1 @@
-# basic-react
-Very simple react boilerplate
+# basci-react
